@@ -70,3 +70,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/[Aa]ssets/[Pp]layFabEditorExtensions/*
+/[Aa]ssets/[Pp]layFabEditorExtensions.meta
+/[Aa]ssets/[Pp]layFabSDK/*
+/[Aa]ssets/[Pp]layFabSDK.meta
+/[Aa]ssets/[Aa]daptive Performance/*
+/[Aa]ssets/Adaptive Performance.meta
+/[Aa]ssets/[Tt]extMesh Pro/*
+/[Aa]ssets/[Tt]extMesh Pro.meta
+/.utmp/*
